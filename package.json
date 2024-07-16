@@ -1,7 +1,7 @@
 {
   "name": "usegame",
   "version": "1.0.0",
-  "homepage":"https://heladit000.github.io/usegame",
+  "homepage":"https://heladit000.github.io/useGame",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
