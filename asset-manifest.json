@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/usegame/static/css/main.99e76871.css",
+    "main.js": "/usegame/static/js/main.012a0b36.js",
+    "static/media/gameplay.gif": "/usegame/static/media/gameplay.adb62bc2dc2a8470e8c6.gif",
+    "index.html": "/usegame/index.html",
+    "main.99e76871.css.map": "/usegame/static/css/main.99e76871.css.map",
+    "main.012a0b36.js.map": "/usegame/static/js/main.012a0b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e76871.css",
+    "static/js/main.012a0b36.js"
+  ]
+}
